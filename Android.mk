@@ -121,5 +121,3 @@ LOCAL_SHARED_LIBRARIES:= libjpgt libpngt
 LOCAL_PRELINK_MODULE:= false
 
 include $(BUILD_SHARED_LIBRARY)
-
-
